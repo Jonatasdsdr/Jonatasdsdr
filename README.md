@@ -1,2 +1,2 @@
-Hello world,  eu sou Jônatas,  curso  bacharelado em engenharia de software.
-Trabalho com atendimento ao público, e pretendo trabalhar futuramente com programação
+Hello world,  eu sou Jônatas, estou cursando Bacharelado em Sistemas de Informação.
+Sou Analista de estoque na Stefanini, e pretendo trabalhar futuramente com programação.
